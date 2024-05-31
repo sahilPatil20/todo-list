@@ -1,0 +1,27 @@
+.title {
+    text-align: center;
+    margin: 15px;
+}
+
+.list-container {
+    background-color: #f2e6ff;
+    width: 450px;
+    height: 350px;
+    margin: 20px auto;
+    border-radius: 7px;
+    padding: 7px;
+    overflow-y: scroll;
+}
+
+.list-item {
+    padding: 7px;
+    width: 95%;
+    background-color: #ffffff;
+    border-radius: 7px;
+    margin: 7px auto;
+    font-size: 18px;
+}
+
+button {
+    background-color: #e6ccff;
+}
